@@ -1,0 +1,1 @@
+var jugador=prompt("¿Cuál es tu nombre?")
