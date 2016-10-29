@@ -1,11 +1,10 @@
-.body	{
-	background-color: #F78C00:
-	width:100%;
-	}
+.header {
+	padding-top: 60px;
+}
 
 .fondo	{
-	background-color: #F78C00;
-	font-family: arial;
+	font-family: verdana;
 	font-size: 36px;
 	text-align: center;
+	width: 100%;
 }
